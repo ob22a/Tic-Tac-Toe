@@ -67,7 +67,7 @@ Add keyboard shortcuts or sounds
 
 📁 File Structure
 ```arduino
-Tic-Tac-Toe-java/
+Tic-Tac-Toe/
 ├── ticTacToe.java       
 ├── option.java
 ├── main.java # Main game class
