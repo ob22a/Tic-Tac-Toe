@@ -31,8 +31,8 @@ Make sure you have **Java JDK 8 or higher** installed.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ob22a/Tic-Tac-Toe-java.git
-   cd tic-tac-toe-java
+   git clone https://github.com/ob22a/Tic-Tac-Toe.git
+   cd tic-tac-toe
 
 2. Compile the code:
 ```bash
